@@ -1,0 +1,14 @@
+     body{
+        /* setting your bg-color */
+        background-color: black
+        /* setting your align and margin */
+        /* setting your colorr text */
+      }
+      .teks-2{
+        color: blue;
+        text-shadow: 1px 1px 1000px red;
+        text-decoration: blink;
+      }
+      .name{
+        margin-left: 30px;
+      }
