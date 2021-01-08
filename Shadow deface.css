@@ -1,3 +1,13 @@
 body{
   background-color: black;
+  /* setting your bg color */
+}
+h1{
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+font-family: 'Indie Flower', cursive; 
+ /* setting your font text */
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px white;
+text-shadow: 0 0 2px #fff, 0 0 10px #fff, 0 0 20px #0ba9ca, 0 0 30px #0ba9ca,
+    0 0 40px #0ba9ca, 0 0 50px white;
 }
